@@ -14,5 +14,8 @@
     "code"
   ],
   "author": "Yogesh Jagdale",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
 }
